@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T03:44:39.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O7emegxDOSzORxZ0rlsp" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T08:33:27.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t9Kt5oddDigwIYhgkVW8" version="22.1.17" type="github">
   <diagram name="Halaman-1" id="EuvOYAsI0U2fL7ryJzKZ">
-    <mxGraphModel dx="1803" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,16 @@
         <mxCell id="iNwkQbmB3lLbcQYFilAP-60" value="Model&lt;br&gt;kepegawaian&lt;br&gt;count_employees_by_status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="765" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iNwkQbmB3lLbcQYFilAP-72" target="cBAPCtBc_B68ubxLBRJK-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1007" y="320" />
+              <mxPoint x="1060" y="320" />
+              <mxPoint x="1060" y="910" />
+              <mxPoint x="715" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iNwkQbmB3lLbcQYFilAP-72" value="karyawan" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="956" y="90" width="60" height="80" as="geometry" />
         </mxCell>
@@ -260,11 +270,11 @@
         <mxCell id="cBAPCtBc_B68ubxLBRJK-16" value="#cek url" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1440" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cBAPCtBc_B68ubxLBRJK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-17" target="cBAPCtBc_B68ubxLBRJK-20">
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-17" target="cBAPCtBc_B68ubxLBRJK-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1810" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1720" y="780" />
+              <mxPoint x="1720" y="760" />
               <mxPoint x="1720" y="460" />
             </Array>
           </mxGeometry>
@@ -274,11 +284,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBAPCtBc_B68ubxLBRJK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-17" target="cBAPCtBc_B68ubxLBRJK-24">
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-17" target="cBAPCtBc_B68ubxLBRJK-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1800" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1720" y="780" />
+              <mxPoint x="1720" y="760" />
               <mxPoint x="1720" y="560" />
             </Array>
           </mxGeometry>
@@ -292,7 +302,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1860" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1720" y="780" />
+              <mxPoint x="1720" y="760" />
               <mxPoint x="1720" y="660" />
             </Array>
           </mxGeometry>
@@ -302,8 +312,20 @@
             <mxPoint x="40" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-17" target="cBAPCtBc_B68ubxLBRJK-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1680" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-64" value="data_kepegawaian" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cBAPCtBc_B68ubxLBRJK-63">
+          <mxGeometry x="0.5184" y="-3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cBAPCtBc_B68ubxLBRJK-17" value="view" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="740" width="80" height="80" as="geometry" />
+          <mxGeometry x="1600" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cBAPCtBc_B68ubxLBRJK-20" value="View&lt;br style=&quot;font-size: 9px;&quot;&gt;cover" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1860" y="430" width="120" height="60" as="geometry" />
@@ -360,11 +382,11 @@
         <mxCell id="cBAPCtBc_B68ubxLBRJK-37" value="Model&lt;br&gt;Jabatan&lt;br&gt;getJabatanAll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="896" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cBAPCtBc_B68ubxLBRJK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-42" target="cBAPCtBc_B68ubxLBRJK-27">
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-42" target="cBAPCtBc_B68ubxLBRJK-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1920" y="830" />
-              <mxPoint x="555" y="830" />
+              <mxPoint x="2060" y="660" />
+              <mxPoint x="2060" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -382,6 +404,9 @@
         <mxCell id="cBAPCtBc_B68ubxLBRJK-46" value="Model&lt;br&gt;Karyawan&lt;br&gt;store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="625" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-47" target="cBAPCtBc_B68ubxLBRJK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cBAPCtBc_B68ubxLBRJK-47" value="Controller&lt;br&gt;data_kepegawaian&lt;br&gt;index" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -393,6 +418,20 @@
               <mxPoint x="1007" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cBAPCtBc_B68ubxLBRJK-56" target="cBAPCtBc_B68ubxLBRJK-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="950" />
+              <mxPoint x="1040" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-56" value="Model&lt;br&gt;karyawan&lt;br&gt;getAllKaryawan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="625" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cBAPCtBc_B68ubxLBRJK-62" value="View&lt;br&gt;kepegawaian/index" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
